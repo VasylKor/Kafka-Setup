@@ -315,7 +315,7 @@ Now, let's:
 
 - Run all the instances;
 - Create a topic;
-- Start the produce console;
+- Start the producer console;
 - Start the consumer console;
 - Write messages in the producer console and watch them appear on the consumer side;
 - Kill both services on one Pi, just Zookeeper or just a Broker and watch the cluster still functioning.
